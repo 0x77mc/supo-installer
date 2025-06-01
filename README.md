@@ -1,2 +1,2 @@
-# opus-installer
+# supo-installer
 Computercraft Github/Pastebin Installer
